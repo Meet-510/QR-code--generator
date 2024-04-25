@@ -55,6 +55,11 @@ function App() {
           </InputContext.Provider>
         </div>
       </div>
+      <div className="flex justify-center mt-36">
+        <p className=" p-4 bg-gradient-to-r from-gray-200 to-gray-700 hover:from-gray-800 hover:to-gray-200 rounded-lg ">
+          by <b>Meet Mistry</b>
+        </p>
+      </div>
     </div>
   );
 }

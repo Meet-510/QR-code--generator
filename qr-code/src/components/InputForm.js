@@ -17,8 +17,6 @@ const InputForm = () => {
       >
         Generate QRcode
       </button>
-      <footer className="text-gray-700">Made by Meet</footer>
-      <h6>for learning purpose</h6>
     </div>
   );
 };
