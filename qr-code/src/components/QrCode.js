@@ -33,7 +33,7 @@ const QrCode = () => {
             onClick={downloadImage}
             className="bg-gray-400 text-white mt-2 px-4 py-1 w-full hover:bg-gray-800"
           >
-            Dwonload
+            Download
           </button>
         </div>
       ) : (
